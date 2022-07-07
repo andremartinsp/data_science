@@ -4,7 +4,7 @@
 </p>
 
 # André Pontes
-<sub>*Pricing Analyst* at Farmácias Pague Menos</sub>
+<sub>*Operations Specialist at Farmácias Pague Menos</sub>
 
 Just a beginner in Data Science area, Python, SQL, data storytelling and data visualization.
 
