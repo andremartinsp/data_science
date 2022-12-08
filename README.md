@@ -4,15 +4,14 @@
 </p>
 
 # André Pontes
-<sub>*Operations Specialist at Farmácias Pague Menos</sub>
+<sub>*Analista de Dados</sub>
 
-Just a beginner in Data Science area, Python, SQL, data storytelling and data visualization.
 
-**Background in:** Data analysis for business.
+**Background in:** Análise de Dados, Pricing, Inteligência de Mercado.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andremartinsp)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@andrehmartins)
 
 
 ---
